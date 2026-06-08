@@ -89,3 +89,14 @@ approved_by: 姓名／角色／待批准
 - **affected_files**：整个仓库。
 - **status**：`active`
 - **approved_by**：项目任务要求（2026-06-08）
+
+### DEC-2026-007
+
+- **decision_id**：`DEC-2026-007`
+- **date**：2026-06-08
+- **decision**：Phase 1 产品定位与分级框架标记为“基本完成”，Phase 2 企业真实数据补充成为当前主阶段；Phase 2 核心数据批准前，Phase 3 目标国家筛选继续保持未开始并受阻塞。
+- **reason**：`market-positioning/` 已完成并合并，但最终产品名称、分级逻辑和应用定位仍包含 `pending` 与 hypothesis，需要一级、二级棕刚玉的企业证据支持。提前排名国家、建设正式网站或投放推广会把未批准假设转化为业务承诺。
+- **evidence**：[`market-positioning/assumptions-and-gaps.md`](market-positioning/assumptions-and-gaps.md)、[`market-positioning/decision-required.md`](market-positioning/decision-required.md)、[`product-data/missing-information.md`](product-data/missing-information.md)、[`internal-data-intake/p0-master-checklist.csv`](internal-data-intake/p0-master-checklist.csv)。
+- **affected_files**：`PROJECT_STATUS.md`、`ROADMAP.md`、`internal-data-intake/**`、后续 `product-data/**` 与 `market-positioning/**` 回填任务。
+- **status**：`active`
+- **approved_by**：项目任务要求（2026-06-08）
