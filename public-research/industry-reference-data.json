@@ -1,0 +1,1604 @@
+{
+  "metadata": {
+    "project": "Brown Fused Alumina Public Research",
+    "data_type": "reference_only",
+    "last_updated": "2026-06-08",
+    "disclaimer": "行业或竞争对手参考，不代表本企业实际产品数据",
+    "scope": "Public Internet sources only; no company master data",
+    "audit": "Source authenticity and traceability audit completed 2026-06-08; source status describes URL/publisher verification, while record-level verification describes claim support."
+  },
+  "products": [
+    {
+      "product_id": "PRD-001",
+      "chinese_name": "棕刚玉",
+      "recommended_english": "Brown Fused Alumina",
+      "aliases": [
+        "Brown Fused Aluminum Oxide",
+        "Brown Aluminum Oxide",
+        "BFA",
+        "Brown Corundum",
+        "Electrofused brown alumina"
+      ],
+      "actual_category": "Electric-arc-fused alumina abrasive/refractory grain, generally bauxite-derived and containing Ti/Fe/Si-bearing minor phases",
+      "verification_status": "verified",
+      "confidence": "high",
+      "source_ids": [
+        "SRC-008",
+        "SRC-021"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-002",
+      "chinese_name": "一级棕刚玉（企业内部称谓）",
+      "recommended_english": "Premium-grade Brown Fused Alumina / High-alumina Brown Fused Alumina (specification required)",
+      "aliases": [
+        "A-grade BFA",
+        "First-grade BFA",
+        "High-grade BFA"
+      ],
+      "actual_category": "Research naming recommendation only. No ISO/FEPA source found that defines a universal international “first-grade BFA”; an external specification must state chemistry, grit system, shape and application.",
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "source_ids": [
+        "SRC-019",
+        "SRC-020"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-003",
+      "chinese_name": "二级棕刚玉（企业内部称谓）",
+      "recommended_english": "Secondary-grade Brown Fused Alumina (only with explicit specification)",
+      "aliases": [
+        "B-grade BFA",
+        "Second-grade BFA",
+        "Lower-alumina BFA",
+        "BFA by-product/reprocessed grade (only if factually correct)"
+      ],
+      "actual_category": "Supplier-defined lower grade terminology exists, but no harmonized international “second-grade BFA” definition was verified. Material origin (lower-alumina, by-product, reclaimed or reprocessed) must be confirmed before naming.",
+      "verification_status": "unverified",
+      "confidence": "low",
+      "source_ids": [
+        "SRC-020"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-004",
+      "chinese_name": "金刚砂（磨料行业语境）",
+      "recommended_english": "Context-dependent research term: abrasive grain / emery / brown fused alumina / silicon carbide",
+      "aliases": [
+        "Emery",
+        "Abrasive grain",
+        "Corundum abrasive",
+        "Carborundum (sometimes used for SiC)"
+      ],
+      "actual_category": "Ambiguous Chinese trade term. SRC-009 confirms Turkish Emery is listed separately from brown aluminum oxide; no source supports default translation as Diamond Sand.",
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "source_ids": [
+        "SRC-009"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-005",
+      "chinese_name": "煅烧棕刚玉／热处理棕刚玉",
+      "recommended_english": "Calcined Brown Fused Alumina / Heat-treated Brown Fused Alumina",
+      "aliases": [
+        "Calcined BFA",
+        "Heat-treated BFA",
+        "Blue-fired BFA",
+        "High-temperature calcined BFA"
+      ],
+      "actual_category": "Verified commercial category: post-fusion heat treatment/calcination exists. Exact temperature, atmosphere and performance effect are product-specific.",
+      "verification_status": "verified",
+      "confidence": "high",
+      "source_ids": [
+        "SRC-009",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-006",
+      "chinese_name": "镀衣棕刚玉／表面处理棕刚玉",
+      "recommended_english": "Surface-treated Brown Fused Alumina or Coated Brown Fused Alumina",
+      "aliases": [
+        "Coated BFA",
+        "Ceramic-coated BFA",
+        "Silane-coated BFA",
+        "Iron-oxide-coated BFA"
+      ],
+      "actual_category": "Verified commercial category covering disclosed treatments such as red iron oxide, silane or supplier-described ceramic/other coating. Treatments are not interchangeable.",
+      "verification_status": "verified",
+      "confidence": "high",
+      "source_ids": [
+        "SRC-008",
+        "SRC-009",
+        "SRC-014",
+        "SRC-016",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "product_id": "PRD-007",
+      "chinese_name": "镀铱刚玉（待确认名称）",
+      "recommended_english": "Surface-treated Brown Fused Alumina (provisional)",
+      "aliases": [
+        "镀衣刚玉",
+        "陶瓷包覆棕刚玉",
+        "Ceramic-coated Brown Fused Alumina"
+      ],
+      "actual_category": "The Chinese term is publicly used inconsistently. No reviewed source proves elemental iridium. Keep only as an unresolved internal name for a possible surface-treated/coated BFA.",
+      "verification_status": "unverified",
+      "confidence": "low",
+      "source_ids": [
+        "SRC-014",
+        "SRC-016"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    }
+  ],
+  "chemical_composition": [
+    {
+      "record_id": "CHEM-001",
+      "product_type": "Typical premium/regular BFA from selected supplier pages",
+      "component": "Al2O3",
+      "typical_or_range": "94.5–97.0",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-017",
+        "SRC-019",
+        "SRC-021"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": false,
+      "confidence": "medium",
+      "limitations": "Calculated cross-supplier observation from named pages, not an industry limit. KORUND 94.5–97%, Minex 95.20%, Bosai ≥95%; test methods and grade bases differ.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-002",
+      "product_type": "Typical premium/regular BFA from selected supplier pages",
+      "component": "TiO2",
+      "typical_or_range": "2.7–3.2",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-017",
+        "SRC-018",
+        "SRC-019"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": false,
+      "confidence": "medium",
+      "limitations": "Cross-supplier observation: Minex 2.90%, Blastrite 2.7%, Bosai ≤3.20%. Typical and maximum values are not equivalent.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-003",
+      "product_type": "Typical premium/regular BFA from selected supplier pages",
+      "component": "Fe2O3",
+      "typical_or_range": "0.1–0.3",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-017",
+        "SRC-018",
+        "SRC-019"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": false,
+      "confidence": "medium",
+      "limitations": "Cross-supplier observation: Minex 0.20%, Blastrite 0.1%, Bosai ≤0.30%. Total Fe2O3 is not magnetic material content.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-004",
+      "product_type": "Typical premium/regular BFA from selected supplier pages",
+      "component": "SiO2",
+      "typical_or_range": "0.7–1.3",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-017",
+        "SRC-018",
+        "SRC-019"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": false,
+      "confidence": "medium",
+      "limitations": "Cross-supplier observation: Minex 1.30%, Blastrite 0.7%, Bosai ≤1.20%. “No free silica” does not mean zero total SiO2.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-005",
+      "product_type": "Blastrite ALCAB BFA",
+      "component": "CaO",
+      "typical_or_range": "0.1",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-018"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": true,
+      "confidence": "medium",
+      "limitations": "Single supplier typical value.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-006",
+      "product_type": "Blastrite ALCAB BFA",
+      "component": "MgO",
+      "typical_or_range": "0.2",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-018"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": true,
+      "confidence": "medium",
+      "limitations": "Single supplier typical value.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-007",
+      "product_type": "Supplier A-grade BFA",
+      "component": "Al2O3/Fe2O3/SiO2/TiO2",
+      "typical_or_range": "Al2O3 92.5–97; Fe2O3 0.3–1.0; SiO2 1.0–2.0; TiO2 1.5–4.0",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-020"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": true,
+      "confidence": "low",
+      "limitations": "Very broad supplier classification; cannot define international “first grade”.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "CHEM-008",
+      "product_type": "Supplier B-grade BFA",
+      "component": "Al2O3/Fe2O3/SiO2/TiO2",
+      "typical_or_range": "Al2O3 70–80; Fe2O3 8–15; SiO2 2–5; TiO2 3–5",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-020"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": false,
+      "single_company_only": true,
+      "confidence": "low",
+      "limitations": "Supplier/local grade evidence only; likely materially different phase composition and use from conventional abrasive BFA.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "CHEM-009",
+      "product_type": "Heat-treated BFA BTCAL",
+      "component": "Al2O3/TiO2/SiO2/Fe2O3/MgO",
+      "typical_or_range": "95.61 / 2.55 / 0.90 / 0.23 / 0.32",
+      "unit": "wt%",
+      "source_ids": [
+        "SRC-023"
+      ],
+      "producer_website": true,
+      "standard_or_technical_source": true,
+      "single_company_only": true,
+      "confidence": "high",
+      "limitations": "One named commercial product; not representative of all heat-treated BFA.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "CHEM-010",
+      "product_type": "Fused aluminium oxide analytical scope",
+      "component": "SiO2, Fe oxide, TiO2, CaO, MgO, ZrO2, Al2O3, LOI",
+      "typical_or_range": "Test methods, not composition limits",
+      "unit": "n/a",
+      "source_ids": [
+        "SRC-006"
+      ],
+      "producer_website": false,
+      "standard_or_technical_source": true,
+      "single_company_only": false,
+      "confidence": "high",
+      "limitations": "ISO 9285 defines analysis methods; it does not establish universal BFA grade limits.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    }
+  ],
+  "physical_properties": [
+    {
+      "record_id": "PHY-001",
+      "product_type": "Selected regular/premium BFA products",
+      "property": "Mohs hardness",
+      "value_or_range": "9.0",
+      "unit": "Mohs",
+      "source_ids": [
+        "SRC-017",
+        "SRC-018",
+        "SRC-021"
+      ],
+      "confidence": "medium",
+      "limitations": "Typical supplier value; test method/sample form not always stated.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "PHY-002",
+      "product_type": "Selected regular/premium BFA products",
+      "property": "True/specific density",
+      "value_or_range": "3.90–4.00",
+      "unit": "g/cm3",
+      "source_ids": [
+        "SRC-017",
+        "SRC-018",
+        "SRC-021"
+      ],
+      "confidence": "medium",
+      "limitations": "Specific gravity and true density labels may not be method-equivalent.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "PHY-003",
+      "product_type": "Selected regular/premium BFA products",
+      "property": "Bulk density",
+      "value_or_range": "1.52–1.87 (other grades/pages up to about 2.05)",
+      "unit": "g/cm3",
+      "source_ids": [
+        "SRC-017",
+        "SRC-021",
+        "SRC-016"
+      ],
+      "confidence": "medium",
+      "limitations": "Strongly dependent on grit, grain shape, packing and test method; never quote without size/method.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "PHY-004",
+      "product_type": "Brown fused alumina blasting media",
+      "property": "Particle shape",
+      "value_or_range": "Angular and sharp",
+      "unit": "qualitative",
+      "source_ids": [
+        "SRC-018"
+      ],
+      "confidence": "medium",
+      "limitations": "Crushing route can produce blocky, angular or splinter shapes.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "PHY-005",
+      "product_type": "Regular/treated BFA",
+      "property": "Color",
+      "value_or_range": "Brown is verified for regular BFA; red-coated and other treated commercial variants are documented. A generic “blue after heat treatment” conclusion was not retained because its cited page was inaccessible.",
+      "unit": "qualitative",
+      "source_ids": [
+        "SRC-008",
+        "SRC-009",
+        "SRC-023"
+      ],
+      "confidence": "medium",
+      "limitations": "Color is product-specific and cannot prove treatment chemistry.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "PHY-006",
+      "product_type": "Selected BFA supplier page",
+      "property": "Melting point",
+      "value_or_range": "Supplier pages report 2050°C and 2250°C",
+      "unit": "°C",
+      "source_ids": [
+        "SRC-016",
+        "SRC-020"
+      ],
+      "confidence": "low",
+      "limitations": "Conflicting single-supplier values; do not use as an industry acceptance value without a method/definition.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "PHY-007",
+      "product_type": "Heat-treated BFA",
+      "property": "Toughness / fracture behavior",
+      "value_or_range": "BTCAL TDS claims heat and magnetic treatment provide high toughness; no generic improvement magnitude verified",
+      "unit": "qualitative",
+      "source_ids": [
+        "SRC-023"
+      ],
+      "confidence": "medium",
+      "limitations": "Manufacturer claim for one named product; requires comparative testing.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "PHY-008",
+      "product_type": "Ceramic-coated BFA",
+      "property": "Hydrophilicity and binder holding",
+      "value_or_range": "claimed improvement; one supplier gives 238 mm for F46",
+      "unit": "mm (supplier test)",
+      "source_ids": [
+        "SRC-016"
+      ],
+      "confidence": "low",
+      "limitations": "Single supplier and unspecified/insufficiently described method; not an industry-wide value.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "record_id": "PHY-009",
+      "product_type": "Fused aluminium oxide blast abrasive",
+      "property": "Moisture, conductivity, water-soluble chloride, apparent/bulk density, Mohs hardness",
+      "value_or_range": "requirements defined by ISO 11126-7; values not reproduced",
+      "unit": "various",
+      "source_ids": [
+        "SRC-007"
+      ],
+      "confidence": "high",
+      "limitations": "Obtain licensed standard/current acceptance criteria for contractual testing.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "record_id": "PHY-010",
+      "product_type": "BFA",
+      "property": "Magnetic material content and pH",
+      "value_or_range": "No robust universal public range established in this research pass",
+      "unit": "n/a",
+      "source_ids": [],
+      "confidence": "low",
+      "limitations": "Must be specified and tested by agreed method; supplier COA/TDS needed.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified"
+    }
+  ],
+  "grit_standards": [
+    {
+      "system": "FEPA F / ISO 8486",
+      "scope": "Bonded abrasives and general industrial fused alumina/SiC grains",
+      "designations": "F4–F220 macrogrits; F230–F2000 microgrits",
+      "method_summary": "Macrogrits by sieving; microgrits by sedimentation/instrument methods",
+      "source_ids": [
+        "SRC-001",
+        "SRC-002",
+        "SRC-003"
+      ],
+      "confidence": "high",
+      "limitations": "F number is a distribution specification, not a single particle diameter.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "system": "FEPA P / ISO 6344",
+      "scope": "Coated abrasives",
+      "designations": "P12–P220 macrogrits; P240–P5000 microgrits",
+      "method_summary": "Separate coated-abrasive distribution system",
+      "source_ids": [
+        "SRC-001",
+        "SRC-004",
+        "SRC-005"
+      ],
+      "confidence": "high",
+      "limitations": "Do not substitute P and F solely because numbers look similar.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "system": "JIS abrasive grain sizes",
+      "scope": "Japanese-market abrasive grains",
+      "designations": "JIS capability is claimed by suppliers; exact standard number, edition and limits were not verified from an official JISC record in this audit",
+      "method_summary": "Must cite exact JIS edition and product scope in contracts",
+      "source_ids": [
+        "SRC-022"
+      ],
+      "confidence": "low",
+      "limitations": "This pass did not retrieve an official JISC public abstract with full limits.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified"
+    },
+    {
+      "system": "ANSI abrasive grain sizes",
+      "scope": "US abrasive/blasting products",
+      "designations": "Washington Mills BLASTITE claims ANSI B74.12; USEM claims adherence to ANSI. Exact edition/scope must be specified.",
+      "method_summary": "Specify exact ANSI/UAMA document and edition",
+      "source_ids": [
+        "SRC-010",
+        "SRC-022"
+      ],
+      "confidence": "medium",
+      "limitations": "Supplier claims are not substitutes for the standard.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "system": "China GB/T",
+      "scope": "Chinese bonded abrasive grain sizing",
+      "designations": "Current GB/T 2481.1-2025 covers bonded-abrasive macrogrits F4–F220 and replaced GB/T 2481.1-1998 on 2026-02-01",
+      "method_summary": "Chinese adoption/related system for F-series testing and designation",
+      "source_ids": [
+        "SRC-028"
+      ],
+      "confidence": "high",
+      "limitations": "Only the official public catalog record was used; no copyrighted standard table was copied. Other GB/T parts require separate records before detailed use.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "system": "Mesh",
+      "scope": "Screen opening / sieve designation",
+      "designations": "Examples: -100 mesh, -200 mesh, -325 mesh; refractory splits in mm",
+      "method_summary": "Describes sieve cut or screen count, often with sign conventions",
+      "source_ids": [
+        "SRC-019",
+        "SRC-020"
+      ],
+      "confidence": "medium",
+      "limitations": "Mesh is not universally convertible to FEPA/JIS grit because distributions and sieve series differ.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "system": "段砂/细粉/微粉",
+      "scope": "Refractory and industrial powders",
+      "designations": "Examples: 0–1, 1–3, 3–6/5, 5–8/6–10 mm; -100/-200/-325 mesh",
+      "method_summary": "Commercial size bands rather than one global grit standard",
+      "source_ids": [
+        "SRC-019",
+        "SRC-020"
+      ],
+      "confidence": "medium",
+      "limitations": "Boundary, oversize/undersize tolerance and test sieve must be stated.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    }
+  ],
+  "applications": [
+    {
+      "application_id": "APP-001",
+      "application": "固结磨具/陶瓷砂轮",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Not established as a universal range; confirm by customer specification",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-008",
+        "SRC-009",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "evidence_summary": "BFA use in grinding wheels/bonded abrasives and commercial heat/coating variants is supported; the former recommendation matrix was not directly sourced."
+    },
+    {
+      "application_id": "APP-002",
+      "application": "树脂砂轮、切割片、角磨片",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Not established as a universal range; confirm by customer specification",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-014",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "evidence_summary": "Supplier pages support coated/heat-treated BFA for resin cutting/grinding or high-performance grinding wheels; exact formulation and grit choice remain unverified."
+    },
+    {
+      "application_id": "APP-003",
+      "application": "涂附磨具、砂带、砂纸",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Supplier page states 24–60#, 80–220# and 280–3000# use bands; treat as supplier guidance, not FEPA conversion or universal recommendation.",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-015"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium",
+      "evidence_summary": "Supplier application page explicitly lists BFA P grain, calcined P grain and coated P grain for coated abrasives."
+    },
+    {
+      "application_id": "APP-004",
+      "application": "喷砂、表面清理、除锈",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "BLASTITE lists selected 20/40/60/80/120/150/180 group grades; Minex lists F12–F220. Product-specific only.",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-008",
+        "SRC-010",
+        "SRC-017",
+        "SRC-018"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium",
+      "evidence_summary": "Official supplier pages support BFA for blasting, rust/scale removal and surface preparation."
+    },
+    {
+      "application_id": "APP-005",
+      "application": "铸造清砂/精密铸造清理",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "No universal grit range verified.",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-010"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium",
+      "evidence_summary": "BLASTITE brochure explicitly lists cleaning of investment castings."
+    },
+    {
+      "application_id": "APP-006",
+      "application": "耐火材料、浇注料、捣打料",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Bosai lists 0–1, 1–3, 3–6 and 6–10 mm; supplier-specific.",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-008",
+        "SRC-019",
+        "SRC-021"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium",
+      "evidence_summary": "Official product pages list refractory/fireproof applications and Bosai provides mm size fractions."
+    },
+    {
+      "application_id": "APP-007",
+      "application": "耐磨地坪、防滑骨料",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Not established as a universal range; confirm by customer specification",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified",
+      "confidence": "low",
+      "evidence_summary": "No reviewed source directly supported the former detailed flooring/anti-slip selection claims. Retained only because it is in the research brief."
+    },
+    {
+      "application_id": "APP-008",
+      "application": "水刀切割",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Not established as a universal range; confirm by customer specification",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified",
+      "confidence": "low",
+      "evidence_summary": "No reviewed source established BFA as a routine waterjet-cutting abrasive. This is only a research question."
+    },
+    {
+      "application_id": "APP-009",
+      "application": "抛光、研磨、研磨膏",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "No universal polishing grit range verified.",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-008",
+        "SRC-017"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium",
+      "evidence_summary": "Official supplier pages list lapping, polishing and grinding uses."
+    },
+    {
+      "application_id": "APP-010",
+      "application": "其他：层压地板、摩擦材料、陶瓷/填料",
+      "recommended_product_type": "Research lead only; requires customer and internal technical validation",
+      "common_grit_reference": "Not established as a universal range; confirm by customer specification",
+      "main_performance_requirements": "Research lead only; requires customer and internal technical validation",
+      "customer_types": "Research lead only; requires customer and internal technical validation",
+      "procurement_focus": "Research lead only; requires customer and internal technical validation",
+      "common_substitutes": "Research lead only; requires customer and internal technical validation",
+      "selection_reason": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_first_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_second_grade": "Research lead only; requires customer and internal technical validation",
+      "suitable_for_calcined_or_surface_treated": "Research lead only; requires customer and internal technical validation",
+      "source_ids": [
+        "SRC-008",
+        "SRC-022"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "evidence_summary": "Washington Mills lists laminates/coatings and USEM lists laminate flooring/friction among served industries; detailed formulation claims were removed."
+    }
+  ],
+  "market_regions": [
+    {
+      "region": "China",
+      "role": "USGS historical data identifies China as a leading fused-aluminum-oxide producer; EU 2026 data identifies China as a major fused-alumina import source. These sources are not BFA-only.",
+      "raw_material_energy": "No audited source in this dataset supports a comparative raw-material or energy-cost conclusion.",
+      "representative_entities": [
+        "Examples in this dataset: Bosai China-origin BFA; several Henan supplier pages. This is not a verified cluster census."
+      ],
+      "positioning": "Insufficient evidence for a region-wide product-positioning conclusion.",
+      "supply_chain_note": "EU imposed definitive anti-dumping measures on Chinese fused alumina in January 2026, with a tariff-rate quota; legal scope broader than BFA",
+      "source_ids": [
+        "SRC-019",
+        "SRC-025",
+        "SRC-026",
+        "SRC-027"
+      ],
+      "confidence": "medium",
+      "limitations": "No unsupported BFA market-share number stated.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    },
+    {
+      "region": "United States and Canada",
+      "role": "Production and processing base plus large import market for fused aluminum oxide",
+      "raw_material_energy": "Electric-furnace production and downstream grading; USGS aggregates fused aluminum oxide",
+      "representative_entities": [
+        "Washington Mills"
+      ],
+      "positioning": "Specialty treated grains, blasting media, refractory and bonded-abrasive products",
+      "supply_chain_note": "USGS reported >95% US net import reliance for fused aluminum oxide in 2023",
+      "source_ids": [
+        "SRC-008",
+        "SRC-025"
+      ],
+      "confidence": "high",
+      "limitations": "USGS category includes more than BFA.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "region": "Brazil",
+      "role": "Important source in US import data and home of Curimbaba/Elfusa group",
+      "raw_material_energy": "Bauxite/alumina base and integrated fused-mineral group are plausible advantages; costs not quantified",
+      "representative_entities": [
+        "Elfusa / Curimbaba Group"
+      ],
+      "positioning": "Industrial and heat-treated fused alumina for abrasives and refractories",
+      "supply_chain_note": "Brazil represented 19% of US ground/refined fused aluminum oxide import sources in the 2019–2022 USGS average",
+      "source_ids": [
+        "SRC-022",
+        "SRC-025"
+      ],
+      "confidence": "high",
+      "limitations": "US import source share is not global production share and not BFA-only.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "region": "European Union",
+      "role": "Producer and major downstream market",
+      "raw_material_energy": "Energy-intensive fusion and strategic supply concerns are documented at policy level",
+      "representative_entities": [
+        "Producers located in Austria, France, Germany, Hungary, Italy and Slovenia per EC"
+      ],
+      "positioning": "Domestic specialty production plus significant imports",
+      "supply_chain_note": "EC estimated 2026 EU fused alumina market volume at 380,000 t and imports at 200,000 t, 160,000 t from China",
+      "source_ids": [
+        "SRC-026"
+      ],
+      "confidence": "high",
+      "limitations": "Fused alumina aggregate, not a BFA-only market estimate.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified"
+    },
+    {
+      "region": "South Africa",
+      "role": "Blastrite states it has two mineral-processing facilities in South Africa and supplies ALCAB BFA; this does not establish national BFA production volume.",
+      "raw_material_energy": "No reliable comparative cost conclusion established",
+      "representative_entities": [
+        "Blastrite"
+      ],
+      "positioning": "Blasting and surface-preparation media for Africa/Middle East and other regions",
+      "supply_chain_note": "Official company page documents regional facilities and distribution reach",
+      "source_ids": [
+        "SRC-018"
+      ],
+      "confidence": "medium",
+      "limitations": "Does not establish national production volume.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Brown Fused Alumina",
+      "recommended_use": "Primary international product name for 棕刚玉",
+      "avoid_or_qualify": "Do not omit grade, grit system, application and treatment where relevant",
+      "source_ids": [
+        "SRC-008",
+        "SRC-021"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "term": "Brown Fused Aluminum Oxide",
+      "recommended_use": "Accepted US-oriented synonym",
+      "avoid_or_qualify": "Aluminium spelling is more common internationally; both are valid",
+      "source_ids": [
+        "SRC-008",
+        "SRC-029"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "term": "BFA",
+      "recommended_use": "Industry abbreviation after spelling out once",
+      "avoid_or_qualify": "Can be opaque outside abrasives/refractories",
+      "source_ids": [
+        "SRC-019",
+        "SRC-020"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "medium"
+    },
+    {
+      "term": "Emery",
+      "recommended_use": "Use only when product is actually natural/synthetic emery or market convention is clarified",
+      "avoid_or_qualify": "Not automatically equivalent to BFA; Washington Mills lists Turkish emery separately",
+      "source_ids": [
+        "SRC-009"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified",
+      "confidence": "medium"
+    },
+    {
+      "term": "金刚砂",
+      "recommended_use": "Do not translate without material confirmation; possible research candidates include abrasive grain, emery, BFA or silicon carbide.",
+      "avoid_or_qualify": "The reviewed source only proves emery and brown aluminum oxide can be separate products; it does not establish a universal translation for 金刚砂.",
+      "source_ids": [
+        "SRC-009"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified",
+      "confidence": "low"
+    },
+    {
+      "term": "Calcined BFA",
+      "recommended_use": "Use only when a post-fusion heat treatment is documented; Heat-treated BFA is safer when the precise thermal process is not confirmed.",
+      "avoid_or_qualify": "Do not confuse “made from calcined bauxite” with “calcined after fusion”",
+      "source_ids": [
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "partially_verified",
+      "confidence": "medium"
+    },
+    {
+      "term": "Heat-treated BFA",
+      "recommended_use": "Broader safe term when thermal cycle is documented but naming varies",
+      "avoid_or_qualify": "Blue-fired, annealed and calcined may not be equivalent processes",
+      "source_ids": [
+        "SRC-009",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "term": "Surface-treated / Coated BFA",
+      "recommended_use": "Use with disclosed coating family where possible",
+      "avoid_or_qualify": "Do not infer ceramic, silane, iron oxide or iridium without evidence",
+      "source_ids": [
+        "SRC-008",
+        "SRC-009",
+        "SRC-014",
+        "SRC-023"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "verified",
+      "confidence": "high"
+    },
+    {
+      "term": "镀铱刚玉",
+      "recommended_use": "Provisional English: Surface-treated Brown Fused Alumina; specific coating material and process must be confirmed by the company technical department.",
+      "avoid_or_qualify": "No reviewed official TDS, patent or paper proves elemental iridium. Never formalize Iridium-coated Corundum without formulation or analytical evidence.",
+      "source_ids": [
+        "SRC-014",
+        "SRC-016"
+      ],
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据",
+      "verification_status": "unverified",
+      "confidence": "low"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "source_title": "Standards | FEPA - Federation of European Producers of Abrasives",
+      "source_url": "https://fepa-abrasives.org/abrasives/standards/",
+      "domain": "fepa-abrasives.org",
+      "publisher": "FEPA",
+      "country": "France / Europe",
+      "source_type": "industry_association_official",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "abrasive grains",
+      "information_category": "grit standards; F/P terminology",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official FEPA standards page. Page title and publisher verified by GET on 2026-06-08.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-002",
+      "source_title": "ISO 8486-1:1996 - Bonded abrasives — Determination and designation of grain size distribution — Part 1: Macrogrits F4 to F220",
+      "source_url": "https://www.iso.org/standard/15695.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "1996-08",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminium oxide macrogrits",
+      "information_category": "bonded abrasive F grit",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official ISO record; title, F4–F220 scope and current/confirmed status verified from the public abstract.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-003",
+      "source_title": "ISO 8486-2:2007 - Bonded abrasives — Determination and designation of grain size distribution — Part 2: Microgrits F230 to F2000",
+      "source_url": "https://www.iso.org/standard/42206.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "2007-08",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminium oxide microgrits",
+      "information_category": "bonded abrasive F microgrit",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Corrected during audit: previous URL /standard/40458.html was an unrelated gas-turbine vibration standard. Official ISO abstract verifies F230–F2000 and bonded/general industrial scope.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-004",
+      "source_title": "ISO 6344-2:2021 - Coated abrasives — Determination and designation of grain size distribution — Part 2: Macrogrit sizes P12 to P220",
+      "source_url": "https://www.iso.org/standard/78220.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "2021-12",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "electro-fused aluminium oxide for coated abrasives",
+      "information_category": "coated abrasive P macrogrit",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official ISO record; title, P12–P220 scope and coated-abrasive application verified from public abstract.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-005",
+      "source_title": "ISO 6344-3:2021 - Coated abrasives — Determination and designation of grain size distribution — Part 3: Microgrit sizes P240 to P5000",
+      "source_url": "https://www.iso.org/standard/78219.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "2021-11",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "electro-fused aluminium oxide for coated abrasives",
+      "information_category": "coated abrasive P microgrit",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Corrected during audit: ISO 6344-3:2013 is withdrawn. Current 2021 record verifies P240–P5000 for coated abrasives.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-006",
+      "source_title": "ISO 9285:1997 - Abrasive grains and crude — Chemical analysis of fused aluminium oxide",
+      "source_url": "https://www.iso.org/standard/16940.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "1997-01",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminium oxide",
+      "information_category": "chemical test methods",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official ISO record. Public abstract supports chemical-analysis method scope only; it does not set BFA composition limits.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-007",
+      "source_title": "ISO 11126-7:2018 - Specifications for non-metallic blast-cleaning abrasives — Part 7: Fused aluminium oxide",
+      "source_url": "https://www.iso.org/standard/66713.html",
+      "domain": "iso.org",
+      "publisher": "ISO",
+      "country": "International",
+      "source_type": "standards_body_official",
+      "publication_date": "2018-08",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminium oxide blasting abrasive",
+      "information_category": "blast media physical requirements",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official ISO record. Public abstract lists specification categories; numerical acceptance limits were not copied.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-008",
+      "source_title": "Brown Fused Aluminum Oxide | Washington Mills",
+      "source_url": "https://www.washingtonmills.com/products/brown-fused-aluminum-oxide",
+      "domain": "washingtonmills.com",
+      "publisher": "Washington Mills",
+      "country": "United States",
+      "source_type": "manufacturer_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "Brown Fused Aluminum Oxide",
+      "information_category": "terminology; products; applications",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official manufacturer technical product page. Identity, terminology, Mohs 9, applications and selected treated grades are visible on the page.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-009",
+      "source_title": "Washington Mills Abrasive Grains for Bonded Abrasive Products",
+      "source_url": "https://www.washingtonmills.com/sites/default/files/pdfs/brochures/Bonded_line_card_email.pdf",
+      "domain": "washingtonmills.com",
+      "publisher": "Washington Mills",
+      "country": "United States",
+      "source_type": "manufacturer_official_brochure",
+      "publication_date": "2007-09",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "BFA; treated BFA",
+      "information_category": "heat treatment; coatings; bonded abrasives",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Washington Mills brochure, dated 09/2007. PDF content verified; current commercial availability must be reconfirmed.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-010",
+      "source_title": "BLASTITE Brown Aluminum Oxide",
+      "source_url": "https://www.washingtonmills.com/sites/default/files/2023-04/BLASTITE.pdf",
+      "domain": "washingtonmills.com",
+      "publisher": "Washington Mills",
+      "country": "United States",
+      "source_type": "manufacturer_official_technical_brochure",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "brown aluminum oxide blast media",
+      "information_category": "applications; grit; standard claims",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Washington Mills technical brochure. PDF title and BLASTITE properties/applications verified.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-011",
+      "source_title": "Brown Fused Alumina for Abrasives & Blasting",
+      "source_url": "https://www.domill.com/products/Brown-Fused-Alumina",
+      "domain": "domill.com",
+      "publisher": "Luoyang DOMILL Abrasive Technology Co., Ltd.",
+      "country": "China",
+      "source_type": "manufacturer_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "regular, calcined and coated BFA",
+      "information_category": "composition; physical properties; treatments; grits",
+      "confidence": "medium",
+      "verification_status": "unverified",
+      "data_status": "reference_only",
+      "notes": "Access failed during source audit: repeated GET returned HTTP 503 on 2026-06-08. Domain appears company-controlled, but title and current page contents could not be independently revalidated; do not rely on its numerical claims.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-012",
+      "source_title": "1050 Calcined Brown Fused Alumina for Bonded Abrasives",
+      "source_url": "https://www.domill.com/wp-content/uploads/2023/06/TDS-1050-Calcined-BFA-for-Bonded-Abrasives.pdf",
+      "domain": "domill.com",
+      "publisher": "Luoyang DOMILL Abrasive Technology Co., Ltd.",
+      "country": "China",
+      "source_type": "manufacturer_official_tds",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "1050°C calcined BFA",
+      "information_category": "calcined BFA; bonded abrasives",
+      "confidence": "medium",
+      "verification_status": "unverified",
+      "data_status": "reference_only",
+      "notes": "Access failed during source audit: repeated GET returned HTTP 503 on 2026-06-08. Domain appears company-controlled, but title and current page contents could not be independently revalidated; do not rely on its numerical claims.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-013",
+      "source_title": "Regular brown fused alumina",
+      "source_url": "https://www.runbaoabrasives.com/en/home-product-fid-25.html",
+      "domain": "runbaoabrasives.com",
+      "publisher": "Luoyang Runbao Super Abrasives Co., Ltd.",
+      "country": "China",
+      "source_type": "manufacturer_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "regular and heat-treated BFA",
+      "information_category": "1050 calcining; 1350 blue firing; shape; FEPA/GB/JIS/ANSI",
+      "confidence": "medium",
+      "verification_status": "unverified",
+      "data_status": "reference_only",
+      "notes": "Access failed during source audit: repeated GET returned HTTP 503 on 2026-06-08. Domain appears company-controlled, but title and current page contents could not be independently revalidated; do not rely on its numerical claims.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-014",
+      "source_title": "镀衣磨料",
+      "source_url": "https://www.ycdf.com.cn/products/Coated-Grains/",
+      "domain": "ycdf.com.cn",
+      "publisher": "河南东风新材料科技有限公司",
+      "country": "China",
+      "source_type": "manufacturer_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "coated BFA and other coated alumina abrasives",
+      "information_category": "镀衣/镀铱 terminology; coating technology",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official company product page. GET/title/publisher verified; page explicitly says 镀衣 is not 镀铱 and does not contain iridium. This remains a supplier statement, not an independent scientific determination. Page contact details reference domill.cn; treat DOMILL/河南东风 materials as potentially related, not independent corroboration.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-015",
+      "source_title": "涂附磨具用磨料",
+      "source_url": "https://www.ycdf.com.cn/Coated-Abrasives/",
+      "domain": "ycdf.com.cn",
+      "publisher": "河南东风新材料科技有限公司",
+      "country": "China",
+      "source_type": "manufacturer_official_application_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "P grit BFA; calcined BFA; coated BFA",
+      "information_category": "coated abrasives; application grit ranges",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official company application page. GET/title/publisher and stated coated-abrasive product/grit guidance verified; guidance is supplier-specific. Page contact details reference domill.cn; treat DOMILL/河南东风 materials as potentially related, not independent corroboration.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-016",
+      "source_title": "镀铱棕刚玉磨料 Ceramic coated Brown Fused Alumina",
+      "source_url": "https://www.hngangyu.com/gwdszgy/100.html",
+      "domain": "hngangyu.com",
+      "publisher": "河南四成研磨科技有限公司（网站署名）",
+      "country": "China",
+      "source_type": "manufacturer_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "so-called 镀铱 BFA",
+      "information_category": "terminology; ceramic coating; physical claims",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official company-branded product page is accessible and uses Chinese 镀铱 while English says ceramic coated. It provides no evidence of elemental iridium; product claims remain single-supplier claims.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-017",
+      "source_title": "Brown Fused Alumina – Tough and Reusable Media | Minex",
+      "source_url": "https://www.minexgroup.eu/en/blasting/abrasive-media/brown-fused-alumina",
+      "domain": "minexgroup.eu",
+      "publisher": "Minex Group",
+      "country": "Europe",
+      "source_type": "specialist_supplier_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "virgin BFA blasting media",
+      "information_category": "composition; density; hardness; recycling distinction",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Minex supplier/integrator product page. Values and virgin/no-recyclate claim verified on page; Minex is treated as supplier/integrator, not BFA manufacturer.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-018",
+      "source_title": "Brown Aluminium Oxide - Blastrite",
+      "source_url": "https://blastrite.com/products/aluminium-oxide/",
+      "domain": "blastrite.com",
+      "publisher": "Blastrite",
+      "country": "South Africa",
+      "source_type": "manufacturer_distributor_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "ALCAB brown fused alumina",
+      "information_category": "composition; physical properties; blasting; packaging",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Blastrite product page. Page supports ALCAB chemistry, physical data and packaging; company site identifies Blastrite as a granular-abrasive manufacturer and distributor, not necessarily the furnace producer of this BFA.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-019",
+      "source_title": "Fused Alumina – Bosai Europe GmbH – Lübeck",
+      "source_url": "https://www.bosaieurope.de/en/our-products/corundum/index.html",
+      "domain": "bosaieurope.de",
+      "publisher": "Bosai Europe GmbH",
+      "country": "Germany / China origin",
+      "source_type": "producer_group_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "refractory/abrasive BFA",
+      "information_category": "composition; sizing; packaging; origin",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Bosai Europe technical product page. Values, Chinese own-production origin, applications and packaging verified; Bosai Europe is recorded as a group sales entity/supplier.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-020",
+      "source_title": "Brown Fused Alumina - Brown fused alumina-Haixu Abrasives",
+      "source_url": "https://brownalumina.com/product/brown-fused-alumina/",
+      "domain": "brownalumina.com",
+      "publisher": "Zhengzhou Haixu Abrasives Co., Ltd.",
+      "country": "China",
+      "source_type": "manufacturer_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "A/B/C grade BFA",
+      "information_category": "grade terminology; composition; physical properties; grits",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Haixu company product page. A/B/C grade values are visible but are supplier-defined commercial classes, not international standards.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-021",
+      "source_title": "Brown Fused Alumina | High-Grade Abrasive | Aluminum Oxide",
+      "source_url": "https://www.korund.pl/en/products/brown-fused-alumina/",
+      "domain": "korund.pl",
+      "publisher": "KORUND",
+      "country": "Poland",
+      "source_type": "manufacturer_supplier_official_product_page",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "BFA",
+      "information_category": "composition; density; hardness; applications",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official KORUND product page. Chemistry, density, hardness and applications verified; page does not establish KORUND as the furnace producer, so identity is supplier.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-022",
+      "source_title": "Home - USEM",
+      "source_url": "https://usminerals.com/home",
+      "domain": "usminerals.com",
+      "publisher": "U.S. Electrofused Minerals / Curimbaba Group",
+      "country": "United States / Brazil group",
+      "source_type": "manufacturer_group_official_site",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "BFA",
+      "information_category": "company; industries; standards",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official U.S. Electrofused Minerals homepage. It states USEM distributes Elfusa products and manufactures industrial mineral grains/powders; group/subsidiary product origin must not be conflated.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-023",
+      "source_title": "Heat Treated Brown Fused Alumina for bonded abrasives BTCAL",
+      "source_url": "https://usminerals.com/files/produtosAtualizadosPDF/BFA%20-%20Brown%20Fused%20Alumina%20-%20Bonded%20%26%20Industrial%20Abrasives%20-%20BTCAL-R.pdf",
+      "domain": "usminerals.com",
+      "publisher": "U.S. Electrofused Minerals / Elfusa",
+      "country": "United States / Brazil",
+      "source_type": "manufacturer_official_tds",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "heat-treated BFA",
+      "information_category": "composition; treatment; bonded abrasives",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official BTCAL TDS hosted by USEM and branded Curimbaba/Elfusa context. PDF verifies heat treatment, typical XRF values, physical values and treatment variants; product origin should not be attributed solely to USEM.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-024",
+      "source_title": "Manufactured Abrasives Statistics and Information",
+      "source_url": "https://www.usgs.gov/centers/nmic/manufactured-abrasives-statistics-and-information",
+      "domain": "usgs.gov",
+      "publisher": "U.S. Geological Survey",
+      "country": "United States",
+      "source_type": "government_statistics_portal",
+      "publication_date": "",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminum oxide and manufactured abrasives",
+      "information_category": "market; supply; uses; properties",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official USGS information portal. Supports broad manufactured-abrasives context; not BFA-specific market statistics.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-025",
+      "source_title": "Mineral Commodity Summaries 2024 - Abrasives (Manufactured)",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-abrasives.pdf",
+      "domain": "pubs.usgs.gov",
+      "publisher": "U.S. Geological Survey",
+      "country": "United States",
+      "source_type": "government_report",
+      "publication_date": "2024-01",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminum oxide",
+      "information_category": "US production/trade; source countries; recycling",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official USGS report. Statistics aggregate fused aluminum oxide, not BFA alone; 2019–2022 import-source percentages and >95% net import reliance verified in PDF.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-026",
+      "source_title": "Commission acts against unfairly traded imports of fused alumina",
+      "source_url": "https://policy.trade.ec.europa.eu/news/commission-acts-against-unfairly-traded-imports-fused-alumina-2026-01-16_en",
+      "domain": "policy.trade.ec.europa.eu",
+      "publisher": "European Commission, DG Trade and Economic Security",
+      "country": "European Union",
+      "source_type": "government_official_news",
+      "publication_date": "2026-01-16",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused alumina",
+      "information_category": "EU trade measures; supply chain; producing regions",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official European Commission news page. 2026 trade measure, EU aggregate fused-alumina volume/import estimates and producing countries verified; scope is broader than BFA.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-027",
+      "source_title": "Abrasives, Manufactured 2018 Minerals Yearbook",
+      "source_url": "https://pubs.usgs.gov/myb/vol1/2018/myb1-2018-abrasives.pdf",
+      "domain": "pubs.usgs.gov",
+      "publisher": "U.S. Geological Survey",
+      "country": "United States",
+      "source_type": "government_yearbook",
+      "publication_date": "2022",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "fused aluminum oxide",
+      "information_category": "historical production countries; applications",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official USGS historical yearbook. 2018 production/capacity statements are historical and cover fused aluminum oxide, not BFA alone.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-028",
+      "source_title": "国家标准 - 全国标准信息公共服务平台",
+      "source_url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=3B46A026CC16469CE06397BE0A0AEEB8",
+      "domain": "std.samr.gov.cn",
+      "publisher": "国家市场监督管理总局 / 全国标准信息公共服务平台",
+      "country": "China",
+      "source_type": "government_standard_record",
+      "publication_date": "2025-08-01",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "bonded abrasive macrogrits",
+      "information_category": "China GB grit standard",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official record for GB/T 2481.1-2025, 固结磨具用磨料 粒度组成的检测和标记 第1部分：粗磨粒F4～F220. Effective 2026-02-01 and replaces withdrawn GB/T 2481.1-1998; no full standard copied.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    },
+    {
+      "source_id": "SRC-029",
+      "source_title": "Brown Fused Aluminum Oxide Safety Data Sheet",
+      "source_url": "https://www.washingtonmills.com/sites/default/files/2025-05/Brown%20Fused%20Aluminum%20Oxide_US%20SDS%20%5BEN%5D.pdf",
+      "domain": "washingtonmills.com",
+      "publisher": "Washington Mills",
+      "country": "United States",
+      "source_type": "manufacturer_official_sds",
+      "publication_date": "2025-05-14",
+      "accessed_date": "2026-06-08",
+      "applicable_product": "brown fused aluminum oxide",
+      "information_category": "identity; synonyms; safety",
+      "confidence": "high",
+      "verification_status": "verified",
+      "data_status": "reference_only",
+      "notes": "Official Washington Mills SDS. PDF title, revision date and product identity/synonyms verified; not a performance specification.",
+      "status": "reference_only",
+      "note": "行业或竞争对手参考，不代表本企业实际产品数据"
+    }
+  ]
+}
