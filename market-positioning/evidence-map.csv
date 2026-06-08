@@ -1,0 +1,26 @@
+﻿conclusion_id,conclusion,conclusion_type,product,source_type,source_ids,internal_data_fields,confidence,status,limitations,review_required
+MP-C01,一级/二级不能直接映射为全球统一 First/Second Grade，最终名称须由规格和用途支持,naming_framework,一级；二级,internal_and_public,SRC-008;SRC-019;SRC-020;SRC-021,product_name_en;chemical_composition;grit_sizes;standards;applications,high,pending,内部产品存在已确认，但最终国际命名未确认,yes
+MP-C02,Brown Fused Alumina 是推荐通用材料名，美国语境可用 Brown Fused Aluminum Oxide,terminology,四类,public,SRC-008;SRC-009;SRC-029,,high,reference_only,证明行业术语，不证明我方规格,yes
+MP-C03,一级暂作为标准工业级并向中高端磨具级验证的主力候选,positioning_hypothesis,一级,internal_and_public,SRC-008;SRC-009;SRC-010;SRC-019;SRC-021,grade_differences;chemical_composition;physical_properties;applications;documents,medium,pending,主力角色与应用适配均待企业数据/客户验证,yes
+MP-C04,二级暂作为成本敏感工业应用候选，但不能推断为再生料或统一低等级,positioning_hypothesis,二级,internal_and_public,SRC-017;SRC-020,raw_material;production_process;grade_differences;chemical_composition;applications,medium,pending,成本与性能均无企业数据；virgin/recycled 未确认,yes
+MP-C05,煅烧 BFA 可作为设备升级后的特殊热处理/磨具升级候选,portfolio_hypothesis,煅烧,public,SRC-015;SRC-023,future_product_details.equipment_status;heat_treatment_temperature;performance_improvement_direction,medium,pending,竞品存在不证明我方可生产或性能提升,yes
+MP-C06,表面处理 BFA 可作为技术升级后的高附加值候选；当前仅用 Surface-treated BFA,portfolio_hypothesis,表面处理,public,SRC-009;SRC-014;SRC-015;SRC-016,future_product_details.surface_treatment_material;surface_treatment_process;performance_improvement_direction,medium,pending,命名冲突、材料和是否含 Ir 未确认,yes
+MP-C07,当前一级为未来独立站主推候选，二级为补充；未来产品不得作为现货,channel_readiness,四类,internal,,product_status;documents;commercial_data;applications,high,pending,网站阶段尚未开始；需完成批准资料,yes
+MP-C08,磨具与喷砂适合作为双通道验证，耐火是否主市场待企业能力确认,market_entry_hypothesis,一级；二级,public,SRC-008;SRC-009;SRC-010;SRC-017;SRC-018;SRC-019;SRC-021;SRC-023,applications;grit_sizes;chemical_composition;customer_types,medium,pending,不构成国家或渠道优先级最终决定,yes
+MP-C09,固结磨具、陶瓷/树脂砂轮等应用在行业中存在，但我方适配待验证,application_reference,一级；二级；煅烧；表面处理,public,SRC-008;SRC-009;SRC-014;SRC-023,applications.bonded_abrasives;applications.resin_wheels;applications.vitrified_wheels,medium,reference_only,公开供应商应用不能替代我方试验,yes
+MP-C10,涂附磨具、砂带、砂纸应用在行业中存在，粒度推荐不能照搬,application_reference,四类,public,SRC-015,applications.coated_abrasives;applications.abrasive_belts;applications.sandpaper;grit_sizes,medium,reference_only,供应商粒度带不是通用标准或我方能力,yes
+MP-C11,喷砂、除锈和表面预处理是 BFA 的公开应用方向,application_reference,一级；二级,public,SRC-008;SRC-010;SRC-017;SRC-018,applications.abrasive_blasting;applications.rust_removal;applications.surface_preparation,medium,reference_only,我方污染、粉尘和循环表现待测,yes
+MP-C12,精密铸造件清理有公开依据，但不等于壳型材料用途,application_reference,一级；二级,public,SRC-010,applications.investment_casting,medium,reference_only,具体工艺和我方适配待验证,yes
+MP-C13,耐火材料/浇注料是公开应用方向，具体 mm 分段仅为供应商示例,application_reference,一级；二级,public,SRC-008;SRC-019;SRC-021,applications.refractories;applications.castables;grit_sizes,medium,reference_only,我方段砂、成分和配方适配待确认,yes
+MP-C14,耐磨地坪和防滑骨料仅保留为低置信研究线索,application_hypothesis,一级；二级,public,,applications.wear_resistant_flooring;applications.anti_slip_aggregate,low,pending,现有研究无直接可靠来源支持详细选择结论,yes
+MP-C15,应用矩阵不提供具体推荐粒度，均须按客户规格和企业能力确认,data_control,四类,internal_and_public,SRC-001;SRC-002;SRC-003;SRC-004;SRC-005;SRC-006;SRC-028,grit_sizes;standards,high,pending,标准入口证明体系存在，不证明我方可供范围,yes
+MP-C16,一级当前生产、当前可销售,lifecycle_fact,一级,internal,,product_status;technical_status,high,confirmed,不等于技术/商业字段均确认,yes
+MP-C17,二级当前生产、当前可销售,lifecycle_fact,二级,internal,,product_status;technical_status,high,confirmed,不等于技术/商业字段均确认,yes
+MP-C18,煅烧和表面处理产品属于未来计划，当前不可销售,lifecycle_fact,煅烧；表面处理,internal,,product_status;technical_status;future_product_details,high,confirmed,上线条件和时间仍 pending,yes
+MP-C19,Iridium-coated Corundum 当前不得作为正式名称,naming_control,表面处理,internal_and_public,SRC-014;SRC-016,future_product_details.surface_treatment_material;naming_note,high,pending,公开资料冲突，是否含 Ir 未确认,yes
+MP-C20,Emery 和 Diamond Sand 不应作为 BFA 默认英文同义词,terminology_control,四类,public,SRC-009,,high,reference_only,需按具体材料语境判断,yes
+MP-C21,产品竞争应按规格、用途、处理和证明能力分层，不按企业规模排名,competitive_framework,四类,public,SRC-008;SRC-009;SRC-010;SRC-019;SRC-020;SRC-021;SRC-023,,medium,reference_only,框架为本次分析综合判断,yes
+MP-C22,当前没有证据确定任何产品为利润型产品,commercial_gap,四类,internal,,commercial_data;production_capacity;lead_time,high,pending,未研究价格且成本/毛利缺失,yes
+MP-C23,煅烧品商业化须完成设备、工艺、A/B、稳定性和客户验证,stage_gate,煅烧,internal_and_public,SRC-023,future_product_details;documents;commercial_data,high,pending,门槛框架待管理层批准,yes
+MP-C24,表面处理品商业化须完成材料/SDS、相容性、储存和客户验证,stage_gate,表面处理,internal_and_public,SRC-009;SRC-014;SRC-015,future_product_details;documents;commercial_data,high,pending,门槛框架待管理层批准,yes
+MP-C25,正式推广前应先完成 Phase 2 P0 企业数据补充,next_step,四类,internal,,missing_fields;documents;commercial_data,high,pending,本模块不是最终商业承诺,yes
