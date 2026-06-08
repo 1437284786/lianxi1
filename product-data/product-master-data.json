@@ -1,0 +1,3392 @@
+{
+  "schema_version": "1.0.0",
+  "allowed_statuses": [
+    "confirmed",
+    "pending",
+    "reference_only",
+    "not_applicable"
+  ],
+  "data_policy": {
+    "unknown_values": "Use null with pending status.",
+    "reference_values": "Industry references must be separated and marked reference_only; they do not represent company product data.",
+    "naming": "Final English names must be based on confirmed chemistry, standards, process and applications."
+  },
+  "products": [
+    {
+      "product_id": "bfa-grade-1",
+      "product_name_cn": {
+        "value": "一级棕刚玉",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_name_en": {
+        "value": "Brown Fused Alumina (Grade 1, Technical Designation Pending)",
+        "status": "pending",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "alternative_names": {
+        "value": [
+          "棕刚玉",
+          "金刚砂"
+        ],
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_status": {
+        "value": "current_production",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "technical_status": {
+        "value": "currently_produced; technical specifications pending confirmation",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "industry": {
+        "value": "磨料行业",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "raw_material": {
+        "value": null,
+        "status": "pending"
+      },
+      "production_process": {
+        "value": {
+          "raw_material_source": {
+            "value": null,
+            "status": "pending"
+          },
+          "smelting": {
+            "value": null,
+            "status": "pending"
+          },
+          "crushing": {
+            "value": null,
+            "status": "pending"
+          },
+          "grain_shaping": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_separation": {
+            "value": null,
+            "status": "pending"
+          },
+          "water_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "acid_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "dust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "special_treatment": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_control": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "chemical_composition": {
+        "value": {
+          "Al2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "TiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "Fe2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "SiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "CaO": {
+            "value": null,
+            "status": "pending"
+          },
+          "MgO": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_components": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_frequency": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_report_available": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "physical_properties": {
+        "value": {
+          "color": {
+            "value": null,
+            "status": "pending"
+          },
+          "particle_shape": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "true_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "mohs_hardness": {
+            "value": null,
+            "status": "pending"
+          },
+          "toughness": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_material_content": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture": {
+            "value": null,
+            "status": "pending"
+          },
+          "pH": {
+            "value": null,
+            "status": "pending"
+          },
+          "loss_on_ignition": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_quality_indicators": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "grit_sizes": {
+        "value": {
+          "F_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "P_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "sized_grain": {
+            "value": null,
+            "status": "pending"
+          },
+          "fine_powder": {
+            "value": null,
+            "status": "pending"
+          },
+          "micropowder": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_screening": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_equipment": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "qualification_rate": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "standards": {
+        "value": {
+          "FEPA": {
+            "value": null,
+            "status": "pending"
+          },
+          "JIS": {
+            "value": null,
+            "status": "pending"
+          },
+          "ANSI": {
+            "value": null,
+            "status": "pending"
+          },
+          "China_national_standard": {
+            "value": null,
+            "status": "pending"
+          },
+          "internal_standard": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "applications": {
+        "value": {
+          "bonded_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "resin_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "vitrified_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "cutting_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "grinding_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "coated_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_belts": {
+            "value": null,
+            "status": "pending"
+          },
+          "sandpaper": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_blasting": {
+            "value": null,
+            "status": "pending"
+          },
+          "rust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_preparation": {
+            "value": null,
+            "status": "pending"
+          },
+          "foundry_cleaning": {
+            "value": null,
+            "status": "pending"
+          },
+          "refractories": {
+            "value": null,
+            "status": "pending"
+          },
+          "castables": {
+            "value": null,
+            "status": "pending"
+          },
+          "wear_resistant_flooring": {
+            "value": null,
+            "status": "pending"
+          },
+          "anti_slip_aggregate": {
+            "value": null,
+            "status": "pending"
+          },
+          "investment_casting": {
+            "value": null,
+            "status": "pending"
+          },
+          "waterjet_cutting": {
+            "value": null,
+            "status": "pending"
+          },
+          "other": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "packaging": {
+        "value": {
+          "25kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "40kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "50kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "paper_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "woven_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture_protection": {
+            "value": null,
+            "status": "pending"
+          },
+          "neutral_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "branded_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet_weight": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_20ft_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_40ft_capacity": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "certifications": {
+        "value": {
+          "ISO_9001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_14001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_45001": {
+            "value": null,
+            "status": "pending"
+          },
+          "REACH": {
+            "value": null,
+            "status": "pending"
+          },
+          "RoHS": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_testing": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_inspection_report": {
+            "value": null,
+            "status": "pending"
+          },
+          "batch_traceability": {
+            "value": null,
+            "status": "pending"
+          },
+          "complaint_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_stability_data": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "production_capacity": {
+        "value": null,
+        "status": "pending"
+      },
+      "lead_time": {
+        "value": null,
+        "status": "pending"
+      },
+      "export_markets": {
+        "value": null,
+        "status": "pending"
+      },
+      "customer_types": {
+        "value": null,
+        "status": "pending"
+      },
+      "selling_points": {
+        "value": null,
+        "status": "pending"
+      },
+      "limitations": {
+        "value": null,
+        "status": "pending"
+      },
+      "grade_differences": {
+        "value": null,
+        "status": "pending"
+      },
+      "commercial_data": {
+        "value": {
+          "target_countries": {
+            "value": null,
+            "status": "pending"
+          },
+          "target_industries": {
+            "value": null,
+            "status": "pending"
+          },
+          "minimum_order_quantity": {
+            "value": null,
+            "status": "pending"
+          },
+          "price_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_policy": {
+            "value": null,
+            "status": "pending"
+          },
+          "competitive_advantages": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_search_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "trade_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "shipping_port": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "documents": {
+        "value": {
+          "product_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "packaging_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "product_video": {
+            "value": null,
+            "status": "pending"
+          },
+          "application_cases": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_reports": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "FAQ": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "future_product_details": {
+        "value": {
+          "expected_launch_date": {
+            "value": null,
+            "status": "pending"
+          },
+          "equipment_status": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_chemical_composition": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_grit_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "heat_treatment_temperature": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_material": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "performance_improvement_direction": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_report_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_trial_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "technical_issues": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "naming_note": {
+        "value": "最终英文名称须依据化学成分、技术标准和用途确认。",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "missing_fields": {
+        "value": [
+          {
+            "field": "chemical_composition",
+            "label_cn": "化学成分",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grit_sizes",
+            "label_cn": "粒度",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "standards",
+            "label_cn": "执行标准",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_capacity",
+            "label_cn": "产能",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "packaging",
+            "label_cn": "包装",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "applications",
+            "label_cn": "主要应用",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grade_differences",
+            "label_cn": "一级与二级实际差异",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_photos",
+            "label_cn": "产品照片",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.test_reports",
+            "label_cn": "检测报告",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "product_name_en",
+            "label_cn": "英文名称",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "selling_points",
+            "label_cn": "核心卖点",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process",
+            "label_cn": "生产工艺",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process.quality_control",
+            "label_cn": "质量控制",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "certifications",
+            "label_cn": "认证",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "export_markets",
+            "label_cn": "出口经验",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.application_cases",
+            "label_cn": "应用案例",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_video",
+            "label_cn": "产品视频",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.FAQ",
+            "label_cn": "FAQ",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_countries",
+            "label_cn": "目标国家",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_industries",
+            "label_cn": "目标行业",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.minimum_order_quantity",
+            "label_cn": "最小起订量",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.price_range",
+            "label_cn": "价格范围",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "lead_time",
+            "label_cn": "交货周期",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.sample_policy",
+            "label_cn": "样品政策",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.competitive_advantages",
+            "label_cn": "主要竞争优势",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.customer_search_terms",
+            "label_cn": "客户常用搜索词",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          }
+        ],
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "last_updated": {
+        "value": "2026-06-08",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      }
+    },
+    {
+      "product_id": "bfa-grade-2",
+      "product_name_cn": {
+        "value": "二级棕刚玉",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_name_en": {
+        "value": "Brown Fused Alumina (Grade 2, Technical Designation Pending)",
+        "status": "pending",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "alternative_names": {
+        "value": [
+          "棕刚玉",
+          "金刚砂"
+        ],
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_status": {
+        "value": "current_production",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "technical_status": {
+        "value": "currently_produced; technical specifications pending confirmation",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "industry": {
+        "value": "磨料行业",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "raw_material": {
+        "value": null,
+        "status": "pending"
+      },
+      "production_process": {
+        "value": {
+          "raw_material_source": {
+            "value": null,
+            "status": "pending"
+          },
+          "smelting": {
+            "value": null,
+            "status": "pending"
+          },
+          "crushing": {
+            "value": null,
+            "status": "pending"
+          },
+          "grain_shaping": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_separation": {
+            "value": null,
+            "status": "pending"
+          },
+          "water_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "acid_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "dust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "special_treatment": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_control": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "chemical_composition": {
+        "value": {
+          "Al2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "TiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "Fe2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "SiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "CaO": {
+            "value": null,
+            "status": "pending"
+          },
+          "MgO": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_components": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_frequency": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_report_available": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "physical_properties": {
+        "value": {
+          "color": {
+            "value": null,
+            "status": "pending"
+          },
+          "particle_shape": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "true_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "mohs_hardness": {
+            "value": null,
+            "status": "pending"
+          },
+          "toughness": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_material_content": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture": {
+            "value": null,
+            "status": "pending"
+          },
+          "pH": {
+            "value": null,
+            "status": "pending"
+          },
+          "loss_on_ignition": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_quality_indicators": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "grit_sizes": {
+        "value": {
+          "F_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "P_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "sized_grain": {
+            "value": null,
+            "status": "pending"
+          },
+          "fine_powder": {
+            "value": null,
+            "status": "pending"
+          },
+          "micropowder": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_screening": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_equipment": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "qualification_rate": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "standards": {
+        "value": {
+          "FEPA": {
+            "value": null,
+            "status": "pending"
+          },
+          "JIS": {
+            "value": null,
+            "status": "pending"
+          },
+          "ANSI": {
+            "value": null,
+            "status": "pending"
+          },
+          "China_national_standard": {
+            "value": null,
+            "status": "pending"
+          },
+          "internal_standard": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "applications": {
+        "value": {
+          "bonded_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "resin_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "vitrified_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "cutting_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "grinding_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "coated_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_belts": {
+            "value": null,
+            "status": "pending"
+          },
+          "sandpaper": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_blasting": {
+            "value": null,
+            "status": "pending"
+          },
+          "rust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_preparation": {
+            "value": null,
+            "status": "pending"
+          },
+          "foundry_cleaning": {
+            "value": null,
+            "status": "pending"
+          },
+          "refractories": {
+            "value": null,
+            "status": "pending"
+          },
+          "castables": {
+            "value": null,
+            "status": "pending"
+          },
+          "wear_resistant_flooring": {
+            "value": null,
+            "status": "pending"
+          },
+          "anti_slip_aggregate": {
+            "value": null,
+            "status": "pending"
+          },
+          "investment_casting": {
+            "value": null,
+            "status": "pending"
+          },
+          "waterjet_cutting": {
+            "value": null,
+            "status": "pending"
+          },
+          "other": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "packaging": {
+        "value": {
+          "25kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "40kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "50kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "paper_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "woven_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture_protection": {
+            "value": null,
+            "status": "pending"
+          },
+          "neutral_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "branded_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet_weight": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_20ft_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_40ft_capacity": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "certifications": {
+        "value": {
+          "ISO_9001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_14001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_45001": {
+            "value": null,
+            "status": "pending"
+          },
+          "REACH": {
+            "value": null,
+            "status": "pending"
+          },
+          "RoHS": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_testing": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_inspection_report": {
+            "value": null,
+            "status": "pending"
+          },
+          "batch_traceability": {
+            "value": null,
+            "status": "pending"
+          },
+          "complaint_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_stability_data": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "production_capacity": {
+        "value": null,
+        "status": "pending"
+      },
+      "lead_time": {
+        "value": null,
+        "status": "pending"
+      },
+      "export_markets": {
+        "value": null,
+        "status": "pending"
+      },
+      "customer_types": {
+        "value": null,
+        "status": "pending"
+      },
+      "selling_points": {
+        "value": null,
+        "status": "pending"
+      },
+      "limitations": {
+        "value": null,
+        "status": "pending"
+      },
+      "grade_differences": {
+        "value": null,
+        "status": "pending"
+      },
+      "commercial_data": {
+        "value": {
+          "target_countries": {
+            "value": null,
+            "status": "pending"
+          },
+          "target_industries": {
+            "value": null,
+            "status": "pending"
+          },
+          "minimum_order_quantity": {
+            "value": null,
+            "status": "pending"
+          },
+          "price_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_policy": {
+            "value": null,
+            "status": "pending"
+          },
+          "competitive_advantages": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_search_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "trade_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "shipping_port": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "documents": {
+        "value": {
+          "product_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "packaging_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "product_video": {
+            "value": null,
+            "status": "pending"
+          },
+          "application_cases": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_reports": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "FAQ": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "future_product_details": {
+        "value": {
+          "expected_launch_date": {
+            "value": null,
+            "status": "pending"
+          },
+          "equipment_status": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_chemical_composition": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_grit_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "heat_treatment_temperature": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_material": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "performance_improvement_direction": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_report_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_trial_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "technical_issues": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "naming_note": {
+        "value": "最终英文名称须依据化学成分、技术标准和用途确认。",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "missing_fields": {
+        "value": [
+          {
+            "field": "chemical_composition",
+            "label_cn": "化学成分",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grit_sizes",
+            "label_cn": "粒度",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "standards",
+            "label_cn": "执行标准",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_capacity",
+            "label_cn": "产能",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "packaging",
+            "label_cn": "包装",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "applications",
+            "label_cn": "主要应用",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grade_differences",
+            "label_cn": "一级与二级实际差异",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_photos",
+            "label_cn": "产品照片",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.test_reports",
+            "label_cn": "检测报告",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "product_name_en",
+            "label_cn": "英文名称",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "selling_points",
+            "label_cn": "核心卖点",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process",
+            "label_cn": "生产工艺",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process.quality_control",
+            "label_cn": "质量控制",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "certifications",
+            "label_cn": "认证",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "export_markets",
+            "label_cn": "出口经验",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.application_cases",
+            "label_cn": "应用案例",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_video",
+            "label_cn": "产品视频",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.FAQ",
+            "label_cn": "FAQ",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_countries",
+            "label_cn": "目标国家",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_industries",
+            "label_cn": "目标行业",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.minimum_order_quantity",
+            "label_cn": "最小起订量",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.price_range",
+            "label_cn": "价格范围",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "lead_time",
+            "label_cn": "交货周期",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.sample_policy",
+            "label_cn": "样品政策",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.competitive_advantages",
+            "label_cn": "主要竞争优势",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.customer_search_terms",
+            "label_cn": "客户常用搜索词",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          }
+        ],
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "last_updated": {
+        "value": "2026-06-08",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      }
+    },
+    {
+      "product_id": "calcined-bfa",
+      "product_name_cn": {
+        "value": "煅烧棕刚玉",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_name_en": {
+        "value": "Calcined Brown Fused Alumina",
+        "status": "pending",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "alternative_names": {
+        "value": [
+          "煅烧刚玉"
+        ],
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_status": {
+        "value": "planned",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "technical_status": {
+        "value": "planned; awaiting equipment and technology upgrades",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "industry": {
+        "value": "磨料行业",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "raw_material": {
+        "value": null,
+        "status": "pending"
+      },
+      "production_process": {
+        "value": {
+          "raw_material_source": {
+            "value": null,
+            "status": "pending"
+          },
+          "smelting": {
+            "value": null,
+            "status": "pending"
+          },
+          "crushing": {
+            "value": null,
+            "status": "pending"
+          },
+          "grain_shaping": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_separation": {
+            "value": null,
+            "status": "pending"
+          },
+          "water_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "acid_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "dust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "special_treatment": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_control": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "chemical_composition": {
+        "value": {
+          "Al2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "TiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "Fe2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "SiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "CaO": {
+            "value": null,
+            "status": "pending"
+          },
+          "MgO": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_components": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_frequency": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_report_available": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "physical_properties": {
+        "value": {
+          "color": {
+            "value": null,
+            "status": "pending"
+          },
+          "particle_shape": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "true_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "mohs_hardness": {
+            "value": null,
+            "status": "pending"
+          },
+          "toughness": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_material_content": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture": {
+            "value": null,
+            "status": "pending"
+          },
+          "pH": {
+            "value": null,
+            "status": "pending"
+          },
+          "loss_on_ignition": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_quality_indicators": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "grit_sizes": {
+        "value": {
+          "F_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "P_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "sized_grain": {
+            "value": null,
+            "status": "pending"
+          },
+          "fine_powder": {
+            "value": null,
+            "status": "pending"
+          },
+          "micropowder": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_screening": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_equipment": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "qualification_rate": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "standards": {
+        "value": {
+          "FEPA": {
+            "value": null,
+            "status": "pending"
+          },
+          "JIS": {
+            "value": null,
+            "status": "pending"
+          },
+          "ANSI": {
+            "value": null,
+            "status": "pending"
+          },
+          "China_national_standard": {
+            "value": null,
+            "status": "pending"
+          },
+          "internal_standard": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "applications": {
+        "value": {
+          "bonded_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "resin_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "vitrified_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "cutting_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "grinding_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "coated_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_belts": {
+            "value": null,
+            "status": "pending"
+          },
+          "sandpaper": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_blasting": {
+            "value": null,
+            "status": "pending"
+          },
+          "rust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_preparation": {
+            "value": null,
+            "status": "pending"
+          },
+          "foundry_cleaning": {
+            "value": null,
+            "status": "pending"
+          },
+          "refractories": {
+            "value": null,
+            "status": "pending"
+          },
+          "castables": {
+            "value": null,
+            "status": "pending"
+          },
+          "wear_resistant_flooring": {
+            "value": null,
+            "status": "pending"
+          },
+          "anti_slip_aggregate": {
+            "value": null,
+            "status": "pending"
+          },
+          "investment_casting": {
+            "value": null,
+            "status": "pending"
+          },
+          "waterjet_cutting": {
+            "value": null,
+            "status": "pending"
+          },
+          "other": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "packaging": {
+        "value": {
+          "25kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "40kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "50kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "paper_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "woven_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture_protection": {
+            "value": null,
+            "status": "pending"
+          },
+          "neutral_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "branded_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet_weight": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_20ft_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_40ft_capacity": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "certifications": {
+        "value": {
+          "ISO_9001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_14001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_45001": {
+            "value": null,
+            "status": "pending"
+          },
+          "REACH": {
+            "value": null,
+            "status": "pending"
+          },
+          "RoHS": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_testing": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_inspection_report": {
+            "value": null,
+            "status": "pending"
+          },
+          "batch_traceability": {
+            "value": null,
+            "status": "pending"
+          },
+          "complaint_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_stability_data": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "production_capacity": {
+        "value": null,
+        "status": "pending"
+      },
+      "lead_time": {
+        "value": null,
+        "status": "pending"
+      },
+      "export_markets": {
+        "value": null,
+        "status": "pending"
+      },
+      "customer_types": {
+        "value": null,
+        "status": "pending"
+      },
+      "selling_points": {
+        "value": null,
+        "status": "pending"
+      },
+      "limitations": {
+        "value": null,
+        "status": "pending"
+      },
+      "grade_differences": {
+        "value": null,
+        "status": "pending"
+      },
+      "commercial_data": {
+        "value": {
+          "target_countries": {
+            "value": null,
+            "status": "pending"
+          },
+          "target_industries": {
+            "value": null,
+            "status": "pending"
+          },
+          "minimum_order_quantity": {
+            "value": null,
+            "status": "pending"
+          },
+          "price_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_policy": {
+            "value": null,
+            "status": "pending"
+          },
+          "competitive_advantages": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_search_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "trade_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "shipping_port": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "documents": {
+        "value": {
+          "product_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "packaging_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "product_video": {
+            "value": null,
+            "status": "pending"
+          },
+          "application_cases": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_reports": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "FAQ": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "future_product_details": {
+        "value": {
+          "expected_launch_date": {
+            "value": null,
+            "status": "pending"
+          },
+          "equipment_status": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_chemical_composition": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_grit_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "heat_treatment_temperature": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_material": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "performance_improvement_direction": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_report_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_trial_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "technical_issues": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "naming_note": {
+        "value": "最终英文名称须依据化学成分、技术标准和用途确认。",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "missing_fields": {
+        "value": [
+          {
+            "field": "chemical_composition",
+            "label_cn": "化学成分",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grit_sizes",
+            "label_cn": "粒度",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "standards",
+            "label_cn": "执行标准",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_capacity",
+            "label_cn": "产能",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "packaging",
+            "label_cn": "包装",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "applications",
+            "label_cn": "主要应用",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grade_differences",
+            "label_cn": "一级与二级实际差异",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_photos",
+            "label_cn": "产品照片",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.test_reports",
+            "label_cn": "检测报告",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "product_name_en",
+            "label_cn": "英文名称",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "selling_points",
+            "label_cn": "核心卖点",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process",
+            "label_cn": "生产工艺",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process.quality_control",
+            "label_cn": "质量控制",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "certifications",
+            "label_cn": "认证",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "export_markets",
+            "label_cn": "出口经验",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.application_cases",
+            "label_cn": "应用案例",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_video",
+            "label_cn": "产品视频",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.FAQ",
+            "label_cn": "FAQ",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_countries",
+            "label_cn": "目标国家",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_industries",
+            "label_cn": "目标行业",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.minimum_order_quantity",
+            "label_cn": "最小起订量",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.price_range",
+            "label_cn": "价格范围",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "lead_time",
+            "label_cn": "交货周期",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.sample_policy",
+            "label_cn": "样品政策",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.competitive_advantages",
+            "label_cn": "主要竞争优势",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.customer_search_terms",
+            "label_cn": "客户常用搜索词",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          }
+        ],
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "last_updated": {
+        "value": "2026-06-08",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      }
+    },
+    {
+      "product_id": "surface-treated-bfa",
+      "product_name_cn": {
+        "value": "镀铱刚玉／表面处理刚玉",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_name_en": {
+        "value": "Surface-treated Brown Fused Alumina",
+        "status": "pending",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "alternative_names": {
+        "value": [
+          "表面处理棕刚玉",
+          "镀铱刚玉"
+        ],
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "product_status": {
+        "value": "planned",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "technical_status": {
+        "value": "planned; awaiting equipment and technology upgrades; coating material and process pending confirmation",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "industry": {
+        "value": "磨料行业",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "raw_material": {
+        "value": null,
+        "status": "pending"
+      },
+      "production_process": {
+        "value": {
+          "raw_material_source": {
+            "value": null,
+            "status": "pending"
+          },
+          "smelting": {
+            "value": null,
+            "status": "pending"
+          },
+          "crushing": {
+            "value": null,
+            "status": "pending"
+          },
+          "grain_shaping": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_separation": {
+            "value": null,
+            "status": "pending"
+          },
+          "water_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "acid_washing": {
+            "value": null,
+            "status": "pending"
+          },
+          "dust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "special_treatment": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_control": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "chemical_composition": {
+        "value": {
+          "Al2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "TiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "Fe2O3": {
+            "value": null,
+            "status": "pending"
+          },
+          "SiO2": {
+            "value": null,
+            "status": "pending"
+          },
+          "CaO": {
+            "value": null,
+            "status": "pending"
+          },
+          "MgO": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_components": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_frequency": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_report_available": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "physical_properties": {
+        "value": {
+          "color": {
+            "value": null,
+            "status": "pending"
+          },
+          "particle_shape": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "true_density": {
+            "value": null,
+            "status": "pending"
+          },
+          "mohs_hardness": {
+            "value": null,
+            "status": "pending"
+          },
+          "toughness": {
+            "value": null,
+            "status": "pending"
+          },
+          "magnetic_material_content": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture": {
+            "value": null,
+            "status": "pending"
+          },
+          "pH": {
+            "value": null,
+            "status": "pending"
+          },
+          "loss_on_ignition": {
+            "value": null,
+            "status": "pending"
+          },
+          "other_quality_indicators": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "grit_sizes": {
+        "value": {
+          "F_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "P_grit": {
+            "value": null,
+            "status": "pending"
+          },
+          "sized_grain": {
+            "value": null,
+            "status": "pending"
+          },
+          "fine_powder": {
+            "value": null,
+            "status": "pending"
+          },
+          "micropowder": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_screening": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_equipment": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_method": {
+            "value": null,
+            "status": "pending"
+          },
+          "qualification_rate": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "standards": {
+        "value": {
+          "FEPA": {
+            "value": null,
+            "status": "pending"
+          },
+          "JIS": {
+            "value": null,
+            "status": "pending"
+          },
+          "ANSI": {
+            "value": null,
+            "status": "pending"
+          },
+          "China_national_standard": {
+            "value": null,
+            "status": "pending"
+          },
+          "internal_standard": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "applications": {
+        "value": {
+          "bonded_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "resin_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "vitrified_wheels": {
+            "value": null,
+            "status": "pending"
+          },
+          "cutting_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "grinding_discs": {
+            "value": null,
+            "status": "pending"
+          },
+          "coated_abrasives": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_belts": {
+            "value": null,
+            "status": "pending"
+          },
+          "sandpaper": {
+            "value": null,
+            "status": "pending"
+          },
+          "abrasive_blasting": {
+            "value": null,
+            "status": "pending"
+          },
+          "rust_removal": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_preparation": {
+            "value": null,
+            "status": "pending"
+          },
+          "foundry_cleaning": {
+            "value": null,
+            "status": "pending"
+          },
+          "refractories": {
+            "value": null,
+            "status": "pending"
+          },
+          "castables": {
+            "value": null,
+            "status": "pending"
+          },
+          "wear_resistant_flooring": {
+            "value": null,
+            "status": "pending"
+          },
+          "anti_slip_aggregate": {
+            "value": null,
+            "status": "pending"
+          },
+          "investment_casting": {
+            "value": null,
+            "status": "pending"
+          },
+          "waterjet_cutting": {
+            "value": null,
+            "status": "pending"
+          },
+          "other": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "packaging": {
+        "value": {
+          "25kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "40kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "50kg_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "bulk_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "paper_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "woven_bag": {
+            "value": null,
+            "status": "pending"
+          },
+          "moisture_protection": {
+            "value": null,
+            "status": "pending"
+          },
+          "neutral_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "branded_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "custom_packaging": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet": {
+            "value": null,
+            "status": "pending"
+          },
+          "pallet_weight": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_20ft_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "container_40ft_capacity": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "certifications": {
+        "value": {
+          "ISO_9001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_14001": {
+            "value": null,
+            "status": "pending"
+          },
+          "ISO_45001": {
+            "value": null,
+            "status": "pending"
+          },
+          "REACH": {
+            "value": null,
+            "status": "pending"
+          },
+          "RoHS": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "third_party_testing": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_inspection_report": {
+            "value": null,
+            "status": "pending"
+          },
+          "batch_traceability": {
+            "value": null,
+            "status": "pending"
+          },
+          "complaint_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "quality_stability_data": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "production_capacity": {
+        "value": null,
+        "status": "pending"
+      },
+      "lead_time": {
+        "value": null,
+        "status": "pending"
+      },
+      "export_markets": {
+        "value": null,
+        "status": "pending"
+      },
+      "customer_types": {
+        "value": null,
+        "status": "pending"
+      },
+      "selling_points": {
+        "value": null,
+        "status": "pending"
+      },
+      "limitations": {
+        "value": null,
+        "status": "pending"
+      },
+      "grade_differences": {
+        "value": null,
+        "status": "pending"
+      },
+      "commercial_data": {
+        "value": {
+          "target_countries": {
+            "value": null,
+            "status": "pending"
+          },
+          "target_industries": {
+            "value": null,
+            "status": "pending"
+          },
+          "minimum_order_quantity": {
+            "value": null,
+            "status": "pending"
+          },
+          "price_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_policy": {
+            "value": null,
+            "status": "pending"
+          },
+          "competitive_advantages": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_search_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "trade_terms": {
+            "value": null,
+            "status": "pending"
+          },
+          "shipping_port": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "documents": {
+        "value": {
+          "product_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "packaging_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "factory_photos": {
+            "value": null,
+            "status": "pending"
+          },
+          "product_video": {
+            "value": null,
+            "status": "pending"
+          },
+          "application_cases": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_reports": {
+            "value": null,
+            "status": "pending"
+          },
+          "SDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "COA": {
+            "value": null,
+            "status": "pending"
+          },
+          "TDS": {
+            "value": null,
+            "status": "pending"
+          },
+          "FAQ": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "future_product_details": {
+        "value": {
+          "expected_launch_date": {
+            "value": null,
+            "status": "pending"
+          },
+          "equipment_status": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_capacity": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_chemical_composition": {
+            "value": null,
+            "status": "pending"
+          },
+          "expected_grit_range": {
+            "value": null,
+            "status": "pending"
+          },
+          "heat_treatment_temperature": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_material": {
+            "value": null,
+            "status": "pending"
+          },
+          "surface_treatment_process": {
+            "value": null,
+            "status": "pending"
+          },
+          "performance_improvement_direction": {
+            "value": null,
+            "status": "pending"
+          },
+          "sample_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "test_report_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "customer_trial_available": {
+            "value": null,
+            "status": "pending"
+          },
+          "technical_issues": {
+            "value": null,
+            "status": "pending"
+          }
+        },
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "naming_note": {
+        "value": "中文暂定名称为“镀铱刚玉／表面处理刚玉”；英文暂用“Surface-treated Brown Fused Alumina”；实际包覆材料、处理工艺和检测报告确认前不得使用“iridium-coated corundum”。",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      },
+      "missing_fields": {
+        "value": [
+          {
+            "field": "chemical_composition",
+            "label_cn": "化学成分",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grit_sizes",
+            "label_cn": "粒度",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "standards",
+            "label_cn": "执行标准",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_capacity",
+            "label_cn": "产能",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "packaging",
+            "label_cn": "包装",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "applications",
+            "label_cn": "主要应用",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "grade_differences",
+            "label_cn": "一级与二级实际差异",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_photos",
+            "label_cn": "产品照片",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.test_reports",
+            "label_cn": "检测报告",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "product_name_en",
+            "label_cn": "英文名称",
+            "priority": "P0",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "selling_points",
+            "label_cn": "核心卖点",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process",
+            "label_cn": "生产工艺",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "production_process.quality_control",
+            "label_cn": "质量控制",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "certifications",
+            "label_cn": "认证",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "export_markets",
+            "label_cn": "出口经验",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.application_cases",
+            "label_cn": "应用案例",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.product_video",
+            "label_cn": "产品视频",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "documents.FAQ",
+            "label_cn": "FAQ",
+            "priority": "P1",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_countries",
+            "label_cn": "目标国家",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.target_industries",
+            "label_cn": "目标行业",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.minimum_order_quantity",
+            "label_cn": "最小起订量",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.price_range",
+            "label_cn": "价格范围",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "lead_time",
+            "label_cn": "交货周期",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.sample_policy",
+            "label_cn": "样品政策",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.competitive_advantages",
+            "label_cn": "主要竞争优势",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          },
+          {
+            "field": "commercial_data.customer_search_terms",
+            "label_cn": "客户常用搜索词",
+            "priority": "P2",
+            "status": "pending",
+            "value": null
+          }
+        ],
+        "status": "pending",
+        "source": null,
+        "last_updated": "2026-06-08"
+      },
+      "last_updated": {
+        "value": "2026-06-08",
+        "status": "confirmed",
+        "source": "项目初始信息",
+        "last_updated": "2026-06-08"
+      }
+    }
+  ],
+  "last_updated": "2026-06-08"
+}
