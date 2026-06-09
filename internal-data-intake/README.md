@@ -25,6 +25,13 @@
 
 P0 工作流状态仅允许：`not_started`、`collecting`、`received`、`under_review`、`approved`、`rejected`、`not_applicable`。这些是任务/审核状态，不替代项目数据状态。
 
+各采集文件另有严格枚举：
+
+- `evidence-register.csv.verification_status`：`received`、`under_review`、`verified`、`approved`、`rejected`、`expired`、`superseded`；有证据记录时不得留空。
+- `document-inventory.csv.intake_status`：`not_received`、`received`、`under_review`、`accepted`、`rejected`、`expired`、`superseded`；任何库存记录均不得留空。
+- `product-evidence-matrix.csv.external_marketing_allowed`：只能为 `yes` 或 `no`，不得留空。
+- `product-evidence-matrix.csv.value_type`：只能为 `single_batch_result`、`typical_value`、`internal_control_limit`、`guaranteed_specification`、`capability_statement`、`qualitative_statement`、`pending`，不得留空。
+
 写回产品数据时仍只使用 `DATA_POLICY.md` 规定的数据状态：`confirmed`、`pending`、`reference_only`、`not_applicable`、`unverified`、`conflicting`。只有存在可追溯证据、完成责任部门核实并由授权人批准的数据，才可使用 `confirmed`。
 
 ## 4. 当前基线
@@ -32,7 +39,7 @@ P0 工作流状态仅允许：`not_started`、`collecting`、`received`、`under
 - P0 主清单共 45 项：一级 22 项，二级 23 项；二级多出的项目是来源及 `virgin/recycled/reprocessed` 属性核实。
 - 所有项目初始状态均为 `not_started`，不得把行业值、竞争对手值或口头猜测标为 `received` 或 `approved`。
 - `evidence-register.csv` 当前没有证据记录；`document-inventory.csv` 的记录均为“应收需求占位”。
-- `product-evidence-matrix.csv` 只建立字段关系，数据值和证据编号均为空，数据状态保持 `pending`，外部营销权限为 `no`。
+- `product-evidence-matrix.csv` 只建立字段关系；45 条占位记录的 `data_value`、`unit`、方法、工厂/产线和有效期均为空，`value_type` 为 `pending`，数据状态保持 `pending`，批准状态保持 `not_started`，外部营销权限为 `no`。
 
 ## 5. 操作顺序
 
