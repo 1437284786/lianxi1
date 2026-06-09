@@ -24,15 +24,17 @@ Codex 可以协助结构化提取和一致性检查，但不能担任企业核�
 
 ### 第 2 步：文件登记
 
-- 在 `document-inventory.csv` 填写真实文件元数据和受控位置。
+- 在 `document-inventory.csv` 填写真实文件元数据和受控位置；`intake_status` 只能使用 `not_received`、`received`、`under_review`、`accepted`、`rejected`、`expired`、`superseded`，记录存在时不得留空。
 - 按 `INT-<类型>-YYYY-NNN` 分配 `evidence_id`，例如 `INT-COA-2026-001`。
-- 在 `evidence-register.csv` 登记证据类型、文件名、产品、批次、出具方、保密等级和关联缺口。
+- 在 `evidence-register.csv` 登记证据类型、文件名、产品、批次、出具方、保密等级和关联缺口；`verification_status` 只能使用 `received`、`under_review`、`verified`、`approved`、`rejected`、`expired`、`superseded`，证据记录存在时不得留空。
 - 不得登记不存在的文件，不得把需求占位当作证据。
 
 ### 第 3 步：数据提取
 
-- 在 `product-evidence-matrix.csv` 逐字段录入原始值、单位、测试方法、适用粒度和批次/时间范围。
-- `typical`、保证值、单批结果和长期控制限值必须分开。
+- 在 `product-evidence-matrix.csv` 逐字段录入原始值、单位、值类型、测试方法、抽样方法、适用粒度、批次/时间范围、工厂/产线和有效期。
+- `value_type` 不得留空，只能使用 `single_batch_result`、`typical_value`、`internal_control_limit`、`guaranteed_specification`、`capability_statement`、`qualitative_statement`、`pending`；没有真实数据的占位记录使用 `pending`。
+- `typical_value`、`guaranteed_specification`、`single_batch_result` 和 `internal_control_limit` 必须分开；不得把单批结果改写为保证规格。
+- 化学成分和物理检测数值一旦录入，必须同时填写 `unit` 和 `test_method`；未知的单位、方法、工厂/产线或有效期保持空白，不得推测。
 - 多份证据存在差异时保留各记录并标记 `conflicting`，不得选择更有利的值。
 - 提取后 P0 状态更新为 `under_review`，数据状态仍为 `pending`。
 
@@ -49,10 +51,10 @@ Codex 可以协助结构化提取和一致性检查，但不能担任企业核�
 
 ### 第 5 步：管理或授权人员批准
 
-- 授权人填写 `approved_by` 和 ISO 日期 `approval_date`。
-- 批准应说明：批准的数据值、适用范围、有效期/复审条件、保密级别，以及是否允许外部营销。
+- 授权人填写 `approved_by` 和 ISO 日期 `approval_date`；`valid_from`、`valid_until` 如填写也必须使用合法的 `YYYY-MM-DD`，且结束日期不得早于开始日期。
+- 批准应说明：批准的数据值、适用范围、有效期/复审条件、保密级别，以及是否允许外部营销。`guaranteed_specification` 必须关联真实证据、处于 `approved` 状态并记录批准人。
 - 证据不足或不适用时分别使用 `rejected` 或 `not_applicable`，并记录理由。
-- 只有完成核实和批准的记录，P0 状态才可设为 `approved`。
+- 只有完成核实和批准的记录，P0 状态才可设为 `approved`。`external_marketing_allowed` 只能为 `yes` 或 `no`；设为 `yes` 时必须同时满足 `data_status=confirmed`、`approval_status=approved`、`confidentiality_level=public`，并存在证据、批准人和批准日期。
 
 ### 第 6 步：批准后更新 `product-data/`
 
